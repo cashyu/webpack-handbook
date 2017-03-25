@@ -1,7 +1,7 @@
 {
   "name": "webpack-handbook",
   "version": "0.0.5",
-  "description": "Webpack 中文指南",
+  "description": "Webpack 中文指南 ",
   "scripts": {
     "serve-gitbook": "gitbook serve ./content ./docs",
     "generate-gitbook": "gitbook build ./content ./docs",
